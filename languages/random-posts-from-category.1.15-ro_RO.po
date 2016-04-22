@@ -1,0 +1,77 @@
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/random-posts-from-category\n"
+"POT-Creation-Date: 2009-11-14 04:08+0000\n"
+"PO-Revision-Date: 2012-03-20 13:51+0200\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: Romania\n"
+"Language-Team: Web Geeks\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: random-from-category-widget.php:35
+msgid "random posts from a chosen category"
+msgstr "Random posts dintr-o categorie ales"
+
+#: random-from-category-widget.php:36
+msgid "Random Posts from Category"
+msgstr "Random posturi de la categoria"
+
+#: random-from-category-widget.php:43
+msgid "Random Posts"
+msgstr "Random Posts"
+
+#: random-from-category-widget.php:91
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#: random-from-category-widget.php:101
+msgid "Title:"
+msgstr "Titlu:"
+
+#: random-from-category-widget.php:106
+msgid "Show posts from category:"
+msgstr "AratÄ de posturi de la categoria:"
+
+#: random-from-category-widget.php:113
+msgid "Link widget title to category archive"
+msgstr "Link-ul widget titlul categorie Arhiva"
+
+#: random-from-category-widget.php:116
+msgid "Number of posts to show:"
+msgstr "NumÄrul de posturi pentru a arÄta:"
+
+#: random-from-category-widget.php:122
+msgid "Display:"
+msgstr "AfiÅare:"
+
+#: random-from-category-widget.php:124
+msgid "Title Only"
+msgstr "Titlul numai"
+
+#: random-from-category-widget.php:125
+msgid "Title and Excerpt"
+msgstr "Titlul Åi extras"
+
+#: random-from-category-widget.php:126
+msgid "Title and Content"
+msgstr "Titlul Åi conÅ£inutul"
+
+#: random-from-category-widget.php:133
+msgid "Limit excerpts to how many words?:"
+msgstr "Limita fragmente de cÃ¢t de multe cuvinte?:"
+
+#: random-from-category-widget.php:139
+msgid "Allowed HTML tags in excerpts:"
+msgstr "Tag-uri HTML a permis Ã®n fragmente:"
+
+#: random-from-category-widget.php:143
+msgid "E.g.: "
+msgstr "Exemplu: "
+
